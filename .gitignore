@@ -1,2 +1,6 @@
 SR\bin\*
 SR\obj\*
+ClientApp\bin\*
+clientApp\obj\*
+ServerApp\bin\*
+ServerApp\obj\*
