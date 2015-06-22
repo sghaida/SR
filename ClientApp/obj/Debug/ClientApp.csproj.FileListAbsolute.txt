@@ -1,0 +1,8 @@
+C:\Users\sghaida\Documents\Visual Studio 2013\Projects\Network\SR\ClientApp\bin\Debug\ClientApp.exe.config
+C:\Users\sghaida\Documents\Visual Studio 2013\Projects\Network\SR\ClientApp\bin\Debug\ClientApp.exe
+C:\Users\sghaida\Documents\Visual Studio 2013\Projects\Network\SR\ClientApp\bin\Debug\ClientApp.pdb
+C:\Users\sghaida\Documents\Visual Studio 2013\Projects\Network\SR\ClientApp\obj\Debug\ClientApp.exe
+C:\Users\sghaida\Documents\Visual Studio 2013\Projects\Network\SR\ClientApp\obj\Debug\ClientApp.pdb
+C:\Users\sghaida\Documents\Visual Studio 2013\Projects\Network\SR\ClientApp\bin\Debug\SR.dll
+C:\Users\sghaida\Documents\Visual Studio 2013\Projects\Network\SR\ClientApp\bin\Debug\SR.pdb
+C:\Users\sghaida\Documents\Visual Studio 2013\Projects\Network\SR\ClientApp\obj\Debug\ClientApp.csprojResolveAssemblyReference.cache

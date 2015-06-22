@@ -1,0 +1,5 @@
+C:\Users\sghaida\Documents\Visual Studio 2013\Projects\Network\SR\SR\bin\Debug\SR.dll
+C:\Users\sghaida\Documents\Visual Studio 2013\Projects\Network\SR\SR\bin\Debug\SR.pdb
+C:\Users\sghaida\Documents\Visual Studio 2013\Projects\Network\SR\SR\obj\Debug\SR.csprojResolveAssemblyReference.cache
+C:\Users\sghaida\Documents\Visual Studio 2013\Projects\Network\SR\SR\obj\Debug\SR.dll
+C:\Users\sghaida\Documents\Visual Studio 2013\Projects\Network\SR\SR\obj\Debug\SR.pdb

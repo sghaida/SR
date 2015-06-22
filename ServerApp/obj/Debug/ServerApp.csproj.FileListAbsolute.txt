@@ -1,0 +1,8 @@
+C:\Users\sghaida\Documents\Visual Studio 2013\Projects\Network\SR\ServerApp\bin\Debug\ServerApp.exe.config
+C:\Users\sghaida\Documents\Visual Studio 2013\Projects\Network\SR\ServerApp\bin\Debug\ServerApp.exe
+C:\Users\sghaida\Documents\Visual Studio 2013\Projects\Network\SR\ServerApp\bin\Debug\ServerApp.pdb
+C:\Users\sghaida\Documents\Visual Studio 2013\Projects\Network\SR\ServerApp\bin\Debug\SR.dll
+C:\Users\sghaida\Documents\Visual Studio 2013\Projects\Network\SR\ServerApp\bin\Debug\SR.pdb
+C:\Users\sghaida\Documents\Visual Studio 2013\Projects\Network\SR\ServerApp\obj\Debug\ServerApp.csprojResolveAssemblyReference.cache
+C:\Users\sghaida\Documents\Visual Studio 2013\Projects\Network\SR\ServerApp\obj\Debug\ServerApp.exe
+C:\Users\sghaida\Documents\Visual Studio 2013\Projects\Network\SR\ServerApp\obj\Debug\ServerApp.pdb
