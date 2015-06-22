@@ -4,3 +4,5 @@ This is a light weight messaging bus that handles transfers for strings  and fil
 at a later stage it will handle objects and collections transfers 
 
 The App contains the core bus, the consumer and publisher libraries 
+
+Please refere to **[LICENSE](LICENSE)**
